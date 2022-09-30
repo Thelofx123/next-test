@@ -1,0 +1,27 @@
+.main{
+    width: 80%;
+    margin: auto;
+    padding: 40px;
+}
+.half{
+    display: flex;
+    width: 60%;
+    justify-content: space-between;
+}
+.zurag{
+    border-radius: 50%;
+    height: 60px;
+}
+.postPic{
+    margin-top: 10px;
+    width: 100%;
+    margin: auto;
+}
+.secHalf{
+    margin-top: 10px;
+}
+.textWrap{
+    margin-Top: 50px;
+    width: 50%;
+    height: 100px;
+}
